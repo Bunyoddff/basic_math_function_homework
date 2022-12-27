@@ -1,3 +1,4 @@
+import math
 def main(a):
     '''find the absolute value of a and return it
     
@@ -7,4 +8,6 @@ def main(a):
     Returns:
         int: the absolute value.
     '''
-    return
+    a=abs(a)
+    return a
+print(main(-8))

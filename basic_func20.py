@@ -10,4 +10,4 @@ def main(a, b):
     '''
     s=a*b
     return s
-print(main(5,4))
+#print(main(5,4))
