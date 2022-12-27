@@ -9,5 +9,5 @@ def main(pi):
         float: the value of pi.
     '''
     s=pi
-    return s
+    return float(s)
 print(main(pi))
